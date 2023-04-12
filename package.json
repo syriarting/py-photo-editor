@@ -1,0 +1,15 @@
+{
+  "name": "py-photo-editor",
+  "version": "1.0.0",
+  "description": "Uses Python and Node to create a photo editor, primarily for Pixel Art but can be used in other scenarios.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u001b[2~\u001b[2~\u001b[2~\u001b[2~\u001b[2~https://github.com/syriarting/py-photo-editor"
+  },
+  "author": "syriarting",
+  "license": "ISC"
+}
